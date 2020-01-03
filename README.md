@@ -1,2 +1,3 @@
 # crawler
-crawler em python udando biblioteca scrapy
+crawler em python udando biblioteca Beautifulsoup
+
